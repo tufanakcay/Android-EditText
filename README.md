@@ -1,2 +1,2 @@
-# AndroidEditText
- AndroidEditText
+# Android EditText Example
+ Android EditText Example 
